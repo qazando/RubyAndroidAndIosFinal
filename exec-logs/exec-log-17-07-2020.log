@@ -1,0 +1,14 @@
+# Logfile created on 2020-07-17 00:07:43 -0300 by logger.rb/66358
+I, [2020-07-17T00:07:52.306871 #47665]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"com.example.qazando.espressotests:id/login_username"} usando o tipo de busca ID com o valor qazando@gmail.com
+I, [2020-07-17T00:07:53.855992 #47665]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"com.example.qazando.espressotests:id/login_password"} usando o tipo de busca ID com o valor 1234567
+I, [2020-07-17T00:07:53.856339 #47665]  INFO -- : Verificando se existe o elemento com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-17T00:07:53.877042 #47665]  INFO -- : Aguardou a existência do elemento com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-17T00:07:54.451223 #47665]  INFO -- : Clicou no botão com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-17T00:07:54.724352 #47665]  INFO -- : Teste finalizado
+I, [2020-07-17T00:08:31.935912 #47799]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"com.example.qazando.espressotests:id/login_username"} usando o tipo de busca ID com o valor qazando@gmail.com
+I, [2020-07-17T00:08:33.493332 #47799]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"com.example.qazando.espressotests:id/login_password"} usando o tipo de busca ID com o valor 1234567
+I, [2020-07-17T00:08:33.493661 #47799]  INFO -- : Verificando se existe o elemento com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-17T00:08:33.523324 #47799]  INFO -- : Aguardou a existência do elemento com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-17T00:08:34.077815 #47799]  INFO -- : Clicou no botão com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-17T00:08:34.078191 #47799]  INFO -- : Verificando se existe o elemento /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[1]/android.view.ViewGroup/android.widget.TextView usando o tipo de busca XPATH
+I, [2020-07-17T00:08:35.086202 #47799]  INFO -- : Teste finalizado

@@ -1,0 +1,138 @@
+# Logfile created on 2020-07-16 22:00:16 -0300 by logger.rb/66358
+I, [2020-07-16T22:01:54.482927 #34772]  INFO -- : Teste finalizado
+I, [2020-07-16T22:03:31.361835 #35156]  INFO -- : Iniciou o teste
+I, [2020-07-16T22:03:31.367172 #35156]  INFO -- : Clicou no botão OK, dentro da modal de bem-vindo
+I, [2020-07-16T22:03:31.367300 #35156]  INFO -- : Verificando se existe o elemento com.tricolorcat.calculator:id/btOK usando o tipo de busca ID
+I, [2020-07-16T22:03:31.673403 #35156]  INFO -- : Aguardou a existência do elemento com.tricolorcat.calculator:id/btOK usando o tipo de busca ID
+I, [2020-07-16T22:03:31.837960 #35156]  INFO -- : Clicou no botão com.tricolorcat.calculator:id/btOK usando o tipo de busca ID
+I, [2020-07-16T22:03:31.838369 #35156]  INFO -- : Verificando se existe o elemento com.tricolorcat.calculator:id/five usando o tipo de busca ID
+I, [2020-07-16T22:03:32.276344 #35156]  INFO -- : Aguardou a existência do elemento com.tricolorcat.calculator:id/five usando o tipo de busca ID
+I, [2020-07-16T22:03:32.487743 #35156]  INFO -- : Clicou no botão com.tricolorcat.calculator:id/five usando o tipo de busca ID
+I, [2020-07-16T22:03:32.488088 #35156]  INFO -- : Verificando se existe o elemento com.tricolorcat.calculator:id/plus usando o tipo de busca ID
+I, [2020-07-16T22:03:32.577512 #35156]  INFO -- : Aguardou a existência do elemento com.tricolorcat.calculator:id/plus usando o tipo de busca ID
+I, [2020-07-16T22:03:33.101146 #35156]  INFO -- : Clicou no botão com.tricolorcat.calculator:id/plus usando o tipo de busca ID
+I, [2020-07-16T22:03:33.101526 #35156]  INFO -- : Verificando se existe o elemento com.tricolorcat.calculator:id/five usando o tipo de busca ID
+I, [2020-07-16T22:03:33.136147 #35156]  INFO -- : Aguardou a existência do elemento com.tricolorcat.calculator:id/five usando o tipo de busca ID
+I, [2020-07-16T22:03:33.680564 #35156]  INFO -- : Clicou no botão com.tricolorcat.calculator:id/five usando o tipo de busca ID
+I, [2020-07-16T22:03:33.680911 #35156]  INFO -- : Verificando se existe o elemento com.tricolorcat.calculator:id/equal usando o tipo de busca ID
+I, [2020-07-16T22:03:34.211269 #35156]  INFO -- : Aguardou a existência do elemento com.tricolorcat.calculator:id/equal usando o tipo de busca ID
+I, [2020-07-16T22:03:34.329709 #35156]  INFO -- : Clicou no botão com.tricolorcat.calculator:id/equal usando o tipo de busca ID
+I, [2020-07-16T22:03:34.329780 #35156]  INFO -- : Está buscando o texto do elemento com.tricolorcat.calculator:id/display usando o tipo de busca ID
+I, [2020-07-16T22:03:35.322965 #35156]  INFO -- : Teste finalizado
+I, [2020-07-16T22:20:08.005284 #36461]  INFO -- : Verificando se existe o elemento com.tricolorcat.calculator:id/btOK usando o tipo de busca ID
+I, [2020-07-16T22:20:08.463262 #36461]  INFO -- : Aguardou a existência do elemento com.tricolorcat.calculator:id/btOK usando o tipo de busca ID
+I, [2020-07-16T22:20:08.586845 #36461]  INFO -- : Clicou no botão com.tricolorcat.calculator:id/btOK usando o tipo de busca ID
+I, [2020-07-16T22:20:09.292524 #36461]  INFO -- : Teste finalizado
+I, [2020-07-16T22:20:37.057918 #36532]  INFO -- : Verificando se existe o elemento com.tricolorcat.calculator:id/btOK usando o tipo de busca ID
+I, [2020-07-16T22:20:57.482162 #36532]  INFO -- : Verificando se existe o elemento com.tricolorcat.calculator:id/btOK usando o tipo de busca ID
+I, [2020-07-16T22:21:17.817255 #36532]  INFO -- : Verificando se existe o elemento com.tricolorcat.calculator:id/btOK usando o tipo de busca ID
+I, [2020-07-16T22:21:38.609681 #36532]  INFO -- : Teste finalizado
+I, [2020-07-16T22:23:32.172602 #36804]  INFO -- : Verificando se existe o elemento com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-16T22:23:32.650741 #36804]  INFO -- : Aguardou a existência do elemento com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-16T22:23:32.729393 #36804]  INFO -- : Clicou no botão com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-16T22:23:33.028878 #36804]  INFO -- : Teste finalizado
+I, [2020-07-16T22:38:11.001107 #38181]  INFO -- : Teste finalizado
+I, [2020-07-16T22:38:38.919013 #38207]  INFO -- : Teste finalizado
+I, [2020-07-16T22:39:16.220365 #38306]  INFO -- : Teste finalizado
+I, [2020-07-16T22:39:45.978029 #38378]  INFO -- : Verificando se existe o elemento login_button usando o tipo de busca ID
+I, [2020-07-16T22:39:46.049537 #38378]  INFO -- : Aguardou a existência do elemento login_button usando o tipo de busca ID
+I, [2020-07-16T22:39:46.455024 #38378]  INFO -- : Clicou no botão login_button usando o tipo de busca ID
+I, [2020-07-16T22:39:47.542601 #38378]  INFO -- : Teste finalizado
+I, [2020-07-16T22:41:07.431791 #38494]  INFO -- : Verificando se existe o elemento login_button usando o tipo de busca ID
+I, [2020-07-16T22:41:07.493815 #38494]  INFO -- : Aguardou a existência do elemento login_button usando o tipo de busca ID
+I, [2020-07-16T22:41:07.898410 #38494]  INFO -- : Clicou no botão login_button usando o tipo de busca ID
+I, [2020-07-16T22:41:08.987251 #38494]  INFO -- : Teste finalizado
+I, [2020-07-16T22:45:39.531373 #38826]  INFO -- : Verificando se existe o elemento login_button usando o tipo de busca ID
+I, [2020-07-16T22:45:39.597944 #38826]  INFO -- : Aguardou a existência do elemento login_button usando o tipo de busca ID
+I, [2020-07-16T22:45:40.009850 #38826]  INFO -- : Clicou no botão login_button usando o tipo de busca ID
+I, [2020-07-16T22:45:41.074557 #38826]  INFO -- : Teste finalizado
+I, [2020-07-16T22:48:12.182846 #39101]  INFO -- : Verificando se existe o elemento login_button usando o tipo de busca ID
+I, [2020-07-16T22:48:12.245326 #39101]  INFO -- : Aguardou a existência do elemento login_button usando o tipo de busca ID
+I, [2020-07-16T22:48:12.602475 #39101]  INFO -- : Clicou no botão login_button usando o tipo de busca ID
+I, [2020-07-16T22:48:13.676380 #39101]  INFO -- : Teste finalizado
+I, [2020-07-16T23:23:52.076908 #42200]  INFO -- : Verificando se existe o elemento com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-16T23:23:52.585289 #42200]  INFO -- : Aguardou a existência do elemento com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-16T23:23:52.725460 #42200]  INFO -- : Clicou no botão com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-16T23:23:53.039410 #42200]  INFO -- : Teste finalizado
+I, [2020-07-16T23:27:02.798965 #42449]  INFO -- : Teste finalizado
+I, [2020-07-16T23:35:00.828506 #43262]  INFO -- : Teste finalizado
+I, [2020-07-16T23:36:57.417276 #43473]  INFO -- : Teste finalizado
+I, [2020-07-16T23:38:23.548514 #43726]  INFO -- : Teste finalizado
+I, [2020-07-16T23:38:59.392865 #43828]  INFO -- : Teste finalizado
+I, [2020-07-16T23:39:28.048517 #43914]  INFO -- : Teste finalizado
+I, [2020-07-16T23:40:04.774314 #44022]  INFO -- : Teste finalizado
+I, [2020-07-16T23:40:54.757448 #44142]  INFO -- : Teste finalizado
+I, [2020-07-16T23:41:43.482006 #44256]  INFO -- : Teste finalizado
+I, [2020-07-16T23:42:28.114022 #44396]  INFO -- : Teste finalizado
+I, [2020-07-16T23:43:24.595032 #44562]  INFO -- : Verificando se existe o elemento com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-16T23:43:25.022302 #44562]  INFO -- : Aguardou a existência do elemento com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-16T23:43:25.131251 #44562]  INFO -- : Clicou no botão com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-16T23:43:25.422017 #44562]  INFO -- : Teste finalizado
+I, [2020-07-16T23:44:10.301831 #44704]  INFO -- : Verificando se existe o elemento com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-16T23:44:10.737241 #44704]  INFO -- : Aguardou a existência do elemento com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-16T23:44:10.832854 #44704]  INFO -- : Clicou no botão com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-16T23:44:11.174265 #44704]  INFO -- : Teste finalizado
+I, [2020-07-16T23:45:58.349006 #44886]  INFO -- : Verificando se existe o elemento com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-16T23:45:58.755295 #44886]  INFO -- : Aguardou a existência do elemento com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-16T23:45:58.839676 #44886]  INFO -- : Clicou no botão com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-16T23:45:59.187453 #44886]  INFO -- : Teste finalizado
+I, [2020-07-16T23:48:11.887943 #45238]  INFO -- : Verificando se existe o elemento com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-16T23:48:12.438464 #45238]  INFO -- : Aguardou a existência do elemento com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-16T23:48:12.524448 #45238]  INFO -- : Clicou no botão com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-16T23:48:12.799690 #45238]  INFO -- : Teste finalizado
+I, [2020-07-16T23:52:07.093634 #45591]  INFO -- : Verificando se existe o elemento com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-16T23:52:07.482164 #45591]  INFO -- : Aguardou a existência do elemento com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-16T23:52:07.589452 #45591]  INFO -- : Clicou no botão com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-16T23:52:07.946649 #45591]  INFO -- : Teste finalizado
+I, [2020-07-16T23:52:59.295741 #45696]  INFO -- : Verificando se existe o elemento com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-16T23:52:59.760651 #45696]  INFO -- : Aguardou a existência do elemento com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-16T23:52:59.888003 #45696]  INFO -- : Clicou no botão com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-16T23:52:59.888343 #45696]  INFO -- : Verificando se existe o elemento com.example.qazando.espressotests:id/login_username usando o tipo de busca ID
+I, [2020-07-16T23:53:00.060252 #45696]  INFO -- : Aguardou a existência do elemento com.example.qazando.espressotests:id/login_username usando o tipo de busca ID
+I, [2020-07-16T23:53:20.615661 #45696]  INFO -- : Teste finalizado
+I, [2020-07-16T23:53:35.247988 #45871]  INFO -- : Verificando se existe o elemento com.example.qazando.espressotests:id/login_username usando o tipo de busca ID
+I, [2020-07-16T23:53:35.728957 #45871]  INFO -- : Aguardou a existência do elemento com.example.qazando.espressotests:id/login_username usando o tipo de busca ID
+I, [2020-07-16T23:53:35.850374 #45871]  INFO -- : Clicou no botão com.example.qazando.espressotests:id/login_username usando o tipo de busca ID
+I, [2020-07-16T23:53:36.184819 #45871]  INFO -- : Teste finalizado
+I, [2020-07-16T23:53:59.996881 #45970]  INFO -- : Verificando se existe o elemento com.example.qazando.espressotests:id/login_username usando o tipo de busca ID
+I, [2020-07-16T23:54:00.462967 #45970]  INFO -- : Aguardou a existência do elemento com.example.qazando.espressotests:id/login_username usando o tipo de busca ID
+I, [2020-07-16T23:54:00.572254 #45970]  INFO -- : Clicou no botão com.example.qazando.espressotests:id/login_username usando o tipo de busca ID
+I, [2020-07-16T23:54:00.924042 #45970]  INFO -- : Teste finalizado
+I, [2020-07-16T23:54:20.647504 #46055]  INFO -- : Verificando se existe o elemento com.example.qazando.espressotests:id/login_username usando o tipo de busca ID
+I, [2020-07-16T23:54:21.037016 #46055]  INFO -- : Aguardou a existência do elemento com.example.qazando.espressotests:id/login_username usando o tipo de busca ID
+I, [2020-07-16T23:54:21.134609 #46055]  INFO -- : Clicou no botão com.example.qazando.espressotests:id/login_username usando o tipo de busca ID
+I, [2020-07-16T23:54:26.450049 #46055]  INFO -- : Teste finalizado
+I, [2020-07-16T23:54:52.149230 #46153]  INFO -- : Verificando se existe o elemento com.example.qazando.espressotests:id/login_username usando o tipo de busca ID
+I, [2020-07-16T23:54:52.535668 #46153]  INFO -- : Aguardou a existência do elemento com.example.qazando.espressotests:id/login_username usando o tipo de busca ID
+I, [2020-07-16T23:54:52.633107 #46153]  INFO -- : Clicou no botão com.example.qazando.espressotests:id/login_username usando o tipo de busca ID
+I, [2020-07-16T23:54:58.996041 #46153]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"com.example.qazando.espressotests:id/login_username"} usando o tipo de busca ID com o valor teste
+I, [2020-07-16T23:54:59.248899 #46153]  INFO -- : Teste finalizado
+I, [2020-07-16T23:55:13.653038 #46230]  INFO -- : Verificando se existe o elemento com.example.qazando.espressotests:id/login_username usando o tipo de busca ID
+I, [2020-07-16T23:55:14.107592 #46230]  INFO -- : Aguardou a existência do elemento com.example.qazando.espressotests:id/login_username usando o tipo de busca ID
+I, [2020-07-16T23:55:14.228362 #46230]  INFO -- : Clicou no botão com.example.qazando.espressotests:id/login_username usando o tipo de busca ID
+I, [2020-07-16T23:55:17.551502 #46230]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"com.example.qazando.espressotests:id/login_username"} usando o tipo de busca ID com o valor teste
+I, [2020-07-16T23:55:17.870928 #46230]  INFO -- : Teste finalizado
+I, [2020-07-16T23:55:31.102004 #46298]  INFO -- : Verificando se existe o elemento com.example.qazando.espressotests:id/login_username usando o tipo de busca ID
+I, [2020-07-16T23:55:31.539811 #46298]  INFO -- : Aguardou a existência do elemento com.example.qazando.espressotests:id/login_username usando o tipo de busca ID
+I, [2020-07-16T23:55:31.648993 #46298]  INFO -- : Clicou no botão com.example.qazando.espressotests:id/login_username usando o tipo de busca ID
+I, [2020-07-16T23:55:33.641876 #46298]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"com.example.qazando.espressotests:id/login_username"} usando o tipo de busca ID com o valor teste
+I, [2020-07-16T23:55:33.935584 #46298]  INFO -- : Teste finalizado
+I, [2020-07-16T23:55:51.747444 #46383]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"com.example.qazando.espressotests:id/login_username"} usando o tipo de busca ID com o valor teste
+I, [2020-07-16T23:55:57.013057 #46383]  INFO -- : Teste finalizado
+I, [2020-07-16T23:56:09.187254 #46457]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"com.example.qazando.espressotests:id/login_username"} usando o tipo de busca ID com o valor qazando@gmail.com
+I, [2020-07-16T23:56:14.501338 #46457]  INFO -- : Teste finalizado
+I, [2020-07-16T23:57:39.744103 #46668]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"com.example.qazando.espressotests:id/login_username"} usando o tipo de busca ID com o valor qazando@gmail.com
+I, [2020-07-16T23:57:45.845998 #46668]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"com.example.qazando.espressotests:id/login_password"} usando o tipo de busca ID com o valor 1234567
+I, [2020-07-16T23:57:51.109911 #46668]  INFO -- : Teste finalizado
+I, [2020-07-16T23:59:03.885896 #46835]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"com.example.qazando.espressotests:id/login_username"} usando o tipo de busca ID com o valor qazando@gmail.com
+I, [2020-07-16T23:59:09.504441 #46835]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"com.example.qazando.espressotests:id/login_password"} usando o tipo de busca ID com o valor 1234567
+I, [2020-07-16T23:59:14.505133 #46835]  INFO -- : Verificando se existe o elemento com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-16T23:59:14.528955 #46835]  INFO -- : Aguardou a existência do elemento com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-16T23:59:14.661295 #46835]  INFO -- : Clicou no botão com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-16T23:59:15.140847 #46835]  INFO -- : Teste finalizado
+I, [2020-07-16T23:59:39.362931 #46944]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"com.example.qazando.espressotests:id/login_username"} usando o tipo de busca ID com o valor qazando@gmail.com
+I, [2020-07-16T23:59:40.933141 #46944]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"com.example.qazando.espressotests:id/login_password"} usando o tipo de busca ID com o valor 1234567
+I, [2020-07-16T23:59:40.933470 #46944]  INFO -- : Verificando se existe o elemento com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-16T23:59:41.445315 #46944]  INFO -- : Aguardou a existência do elemento com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-16T23:59:41.545906 #46944]  INFO -- : Clicou no botão com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-07-16T23:59:41.858752 #46944]  INFO -- : Teste finalizado

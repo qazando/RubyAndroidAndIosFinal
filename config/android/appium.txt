@@ -1,0 +1,10 @@
+
+[caps]
+platformName = "Android"
+deviceName = "Herbert"
+app = "/Users/t2705hrb/Documents/versao/teste/app-debug.apk"
+autoGrantPermissions = true
+newCommandTimeout = 3600
+[appium_lib]
+wait = 20
+debug = false

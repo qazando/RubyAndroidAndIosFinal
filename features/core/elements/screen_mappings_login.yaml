@@ -1,0 +1,25 @@
+ios:
+  login:
+   btn_login:
+    tipo_busca: 'ID'
+    value: 'login_button'
+android:
+  login:
+    btn_login:
+      tipo_busca: 'ID'
+      value: 'com.example.qazando.espressotests:id/btn_sign_up_login'
+    campo_email:
+      tipo_busca: 'ID'
+      value: 'com.example.qazando.espressotests:id/login_username'
+    campo_senha:
+      tipo_busca: 'ID'
+      value: 'com.example.qazando.espressotests:id/login_password'
+    logado:
+      tipo_busca: 'XPATH'
+      value: '/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[1]/android.view.ViewGroup/android.widget.TextView'
+
+
+
+
+
+      
