@@ -29,4 +29,4 @@ Passos para execução:
  - Instalar manualmente a `gem install allure-cucumber`
  - Executar: `bundle install`
  - Se der erro no comando acima, rodar esse: `gem install bundler:2.0.2`
- - Para executar a suite de teste: `rake run_acceptance[platform,@tag_test]` - sendo platform = android/ios e @tag_test = as tags definidas na feature do cucumber
+ - Rodar o seguinte comando para os testes `cucumber -t @sua_tag PLATFORM_NAME=android ou ios`

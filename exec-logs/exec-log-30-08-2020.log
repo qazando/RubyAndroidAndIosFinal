@@ -1,0 +1,11 @@
+# Logfile created on 2020-08-30 20:53:52 -0300 by logger.rb/66358
+I, [2020-08-30T20:58:47.106663 #45339]  INFO -- : Teste finalizado
+I, [2020-08-30T20:58:54.115805 #45389]  INFO -- : Teste finalizado
+I, [2020-08-30T21:02:11.507361 #45605]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"com.example.qazando.espressotests:id/login_username"} usando o tipo de busca ID com o valor qazando@gmail.com
+I, [2020-08-30T21:02:13.083292 #45605]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"com.example.qazando.espressotests:id/login_password"} usando o tipo de busca ID com o valor 1234567
+I, [2020-08-30T21:02:13.083674 #45605]  INFO -- : Verificando se existe o elemento com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-08-30T21:02:13.602779 #45605]  INFO -- : Aguardou a existência do elemento com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-08-30T21:02:13.676884 #45605]  INFO -- : Clicou no botão com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-08-30T21:02:13.677258 #45605]  INFO -- : Verificando se existe o elemento /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[1]/android.view.ViewGroup/android.widget.TextView usando o tipo de busca XPATH
+I, [2020-08-30T21:02:14.377547 #45605]  INFO -- : Teste finalizado
+I, [2020-08-30T21:04:08.334291 #45753]  INFO -- : Teste finalizado

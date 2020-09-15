@@ -1,0 +1,40 @@
+# Logfile created on 2020-08-31 22:17:29 -0300 by logger.rb/66358
+I, [2020-08-31T22:17:29.501677 #17144]  INFO -- : Teste finalizado
+I, [2020-08-31T22:18:09.753313 #17378]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"com.example.qazando.espressotests:id/login_username"} usando o tipo de busca ID com o valor qazando@gmail.com
+I, [2020-08-31T22:18:11.322605 #17378]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"com.example.qazando.espressotests:id/login_password"} usando o tipo de busca ID com o valor 1234567
+I, [2020-08-31T22:18:11.322944 #17378]  INFO -- : Verificando se existe o elemento com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-08-31T22:18:11.354834 #17378]  INFO -- : Aguardou a existência do elemento com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-08-31T22:18:11.868099 #17378]  INFO -- : Clicou no botão com.example.qazando.espressotests:id/btn_sign_up_login usando o tipo de busca ID
+I, [2020-08-31T22:18:11.868418 #17378]  INFO -- : Verificando se existe o elemento /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[1]/android.view.ViewGroup/android.widget.TextView usando o tipo de busca XPATH
+I, [2020-08-31T22:18:12.471165 #17378]  INFO -- : Teste finalizado
+I, [2020-08-31T23:04:07.930634 #24415]  INFO -- : Teste finalizado
+I, [2020-08-31T23:04:52.635409 #24513]  INFO -- : Teste finalizado
+I, [2020-08-31T23:06:36.841474 #24709]  INFO -- : Teste finalizado
+I, [2020-08-31T23:08:37.589729 #25013]  INFO -- : Teste finalizado
+I, [2020-08-31T23:10:44.716495 #25218]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"com.example.qazando.espressotests:id/login_username"} usando o tipo de busca ID com o valor qazando@gmail.com
+I, [2020-08-31T23:10:46.283450 #25218]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"com.example.qazando.espressotests:id/login_password"} usando o tipo de busca ID com o valor 123456
+I, [2020-08-31T23:10:46.283840 #25218]  INFO -- : Verificando se existe o elemento com.example.qazando.espressotests:id/login_button usando o tipo de busca ID
+I, [2020-08-31T23:10:46.799843 #25218]  INFO -- : Aguardou a existência do elemento com.example.qazando.espressotests:id/login_button usando o tipo de busca ID
+I, [2020-08-31T23:10:46.910404 #25218]  INFO -- : Clicou no botão com.example.qazando.espressotests:id/login_button usando o tipo de busca ID
+I, [2020-08-31T23:10:46.910741 #25218]  INFO -- : Verificando se existe o elemento asfdasdfasdf usando o tipo de busca XPATH
+I, [2020-08-31T23:11:03.983057 #25280]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"com.example.qazando.espressotests:id/login_username"} usando o tipo de busca ID com o valor qazando@gmail.com
+I, [2020-08-31T23:11:05.567370 #25280]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"com.example.qazando.espressotests:id/login_password"} usando o tipo de busca ID com o valor 123456
+I, [2020-08-31T23:11:05.567769 #25280]  INFO -- : Verificando se existe o elemento com.example.qazando.espressotests:id/login_button usando o tipo de busca ID
+I, [2020-08-31T23:11:06.084835 #25280]  INFO -- : Aguardou a existência do elemento com.example.qazando.espressotests:id/login_button usando o tipo de busca ID
+I, [2020-08-31T23:11:06.159424 #25280]  INFO -- : Clicou no botão com.example.qazando.espressotests:id/login_button usando o tipo de busca ID
+I, [2020-08-31T23:11:06.159816 #25280]  INFO -- : Verificando se existe o elemento asfdasdfasdf usando o tipo de busca XPATH
+I, [2020-08-31T23:11:23.971956 #25348]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"com.example.qazando.espressotests:id/login_username"} usando o tipo de busca ID com o valor qazando@gmail.com
+I, [2020-08-31T23:11:25.571911 #25348]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"com.example.qazando.espressotests:id/login_password"} usando o tipo de busca ID com o valor 123456
+I, [2020-08-31T23:11:25.572299 #25348]  INFO -- : Verificando se existe o elemento com.example.qazando.espressotests:id/login_button usando o tipo de busca ID
+I, [2020-08-31T23:11:26.087708 #25348]  INFO -- : Aguardou a existência do elemento com.example.qazando.espressotests:id/login_button usando o tipo de busca ID
+I, [2020-08-31T23:11:26.160064 #25348]  INFO -- : Clicou no botão com.example.qazando.espressotests:id/login_button usando o tipo de busca ID
+I, [2020-08-31T23:11:26.160529 #25348]  INFO -- : Verificando se existe o elemento asfdasdfasdf usando o tipo de busca XPATH
+I, [2020-08-31T23:11:43.422548 #25419]  INFO -- : Teste finalizado
+I, [2020-08-31T23:12:12.277170 #25511]  INFO -- : Teste finalizado
+I, [2020-08-31T23:13:27.972168 #25592]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"com.example.qazando.espressotests:id/login_username"} usando o tipo de busca ID com o valor qazando@gmail.com
+I, [2020-08-31T23:13:29.414437 #25592]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"com.example.qazando.espressotests:id/login_password"} usando o tipo de busca ID com o valor 123456
+I, [2020-08-31T23:13:29.416093 #25592]  INFO -- : Verificando se existe o elemento com.example.qazando.espressotests:id/login_button usando o tipo de busca ID
+I, [2020-08-31T23:13:29.923283 #25592]  INFO -- : Aguardou a existência do elemento com.example.qazando.espressotests:id/login_button usando o tipo de busca ID
+I, [2020-08-31T23:13:30.317351 #25592]  INFO -- : Clicou no botão com.example.qazando.espressotests:id/login_button usando o tipo de busca ID
+I, [2020-08-31T23:13:30.318603 #25592]  INFO -- : Verificando se existe o elemento /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.TextView usando o tipo de busca XPATH
+I, [2020-08-31T23:13:33.945568 #25592]  INFO -- : Teste finalizado

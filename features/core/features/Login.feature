@@ -1,8 +1,8 @@
 #language: pt
 #encoding: utf-8
 
-@herbertera @ios @acceptance @wip
-Funcionalidade: Realizar calculos diversos
+@herbertera @ios @acceptance @wip @homepage
+Funcionalidade: Login com sucesso
 
   Cenário: Login do Herbertão
     Dado que esteja na tela de login

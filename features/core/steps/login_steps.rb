@@ -1,7 +1,7 @@
 # frozen_string_literal: true
+
 Dado(/^que esteja na tela de login$/) do
   @login = LoginPage.new
-
 end
 
 Dado(/^que escreva o meu email$/) do
@@ -13,9 +13,9 @@ Dado(/^que escreva a minha senha$/) do
 end
 
 Quando(/^clicar em Login$/) do
-    @login.clicar_em_login
+  @login.clicar_em_logar
 end
 
 Então(/^vai ser apresentado a próxima tela$/) do
-  @login.valido_elemento_logado
+  @login.validar_user_logado
 end

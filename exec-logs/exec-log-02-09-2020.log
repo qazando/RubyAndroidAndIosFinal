@@ -1,0 +1,46 @@
+# Logfile created on 2020-09-02 22:22:22 -0300 by logger.rb/66358
+I, [2020-09-02T22:22:22.682830 #11838]  INFO -- : Teste finalizado
+I, [2020-09-02T22:24:30.691554 #11979]  INFO -- : Teste finalizado
+I, [2020-09-02T22:25:51.259722 #12734]  INFO -- : Teste finalizado
+I, [2020-09-02T22:27:02.917434 #12906]  INFO -- : Teste finalizado
+I, [2020-09-02T22:27:40.449140 #13042]  INFO -- : Verificando se existe o elemento login_button usando o tipo de busca ID
+I, [2020-09-02T22:27:40.591467 #13042]  INFO -- : Aguardou a existência do elemento login_button usando o tipo de busca ID
+I, [2020-09-02T22:27:41.218914 #13042]  INFO -- : Clicou no botão login_button usando o tipo de busca ID
+I, [2020-09-02T22:27:42.298374 #13042]  INFO -- : Teste finalizado
+I, [2020-09-02T22:33:21.874004 #13690]  INFO -- : Teste finalizado
+I, [2020-09-02T22:34:20.622111 #13835]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"login_username"} usando o tipo de busca ID com o valor qazando@gmail.com
+I, [2020-09-02T22:34:21.467947 #13835]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"login_password"} usando o tipo de busca ID com o valor 123456
+I, [2020-09-02T22:34:21.468527 #13835]  INFO -- : Verificando se existe o elemento login_button usando o tipo de busca ID
+I, [2020-09-02T22:34:21.559330 #13835]  INFO -- : Aguardou a existência do elemento login_button usando o tipo de busca ID
+I, [2020-09-02T22:34:22.132882 #13835]  INFO -- : Clicou no botão login_button usando o tipo de busca ID
+I, [2020-09-02T22:34:22.133242 #13835]  INFO -- : Verificando se existe o elemento welcome_txt usando o tipo de busca ID
+I, [2020-09-02T22:34:23.257792 #13835]  INFO -- : Teste finalizado
+I, [2020-09-02T22:34:45.219645 #13923]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"login_username"} usando o tipo de busca ID com o valor qazando@gmail.com
+I, [2020-09-02T22:34:46.084306 #13923]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"login_password"} usando o tipo de busca ID com o valor 123456
+I, [2020-09-02T22:34:46.084647 #13923]  INFO -- : Verificando se existe o elemento login_button usando o tipo de busca ID
+I, [2020-09-02T22:34:46.183000 #13923]  INFO -- : Aguardou a existência do elemento login_button usando o tipo de busca ID
+I, [2020-09-02T22:34:46.769265 #13923]  INFO -- : Clicou no botão login_button usando o tipo de busca ID
+I, [2020-09-02T22:34:46.769619 #13923]  INFO -- : Verificando se existe o elemento welcome_txt usando o tipo de busca ID
+I, [2020-09-02T22:34:47.894014 #13923]  INFO -- : Teste finalizado
+I, [2020-09-02T22:35:06.107755 #14025]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"login_username"} usando o tipo de busca ID com o valor qazando@gmail.com
+I, [2020-09-02T22:35:06.998373 #14025]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"login_password"} usando o tipo de busca ID com o valor 123456
+I, [2020-09-02T22:35:06.998796 #14025]  INFO -- : Verificando se existe o elemento login_button usando o tipo de busca ID
+I, [2020-09-02T22:35:07.107608 #14025]  INFO -- : Aguardou a existência do elemento login_button usando o tipo de busca ID
+I, [2020-09-02T22:35:07.696334 #14025]  INFO -- : Clicou no botão login_button usando o tipo de busca ID
+I, [2020-09-02T22:35:07.696666 #14025]  INFO -- : Verificando se existe o elemento welcome_txt usando o tipo de busca ID
+I, [2020-09-02T22:35:08.860188 #14025]  INFO -- : Teste finalizado
+I, [2020-09-02T23:06:04.471656 #17427]  INFO -- : Teste finalizado
+I, [2020-09-02T23:07:05.228680 #17537]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"login_username"} usando o tipo de busca ID com o valor qazando@gmail.com
+I, [2020-09-02T23:07:07.362884 #17537]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"login_password"} usando o tipo de busca ID com o valor 123456
+I, [2020-09-02T23:07:07.363752 #17537]  INFO -- : Verificando se existe o elemento login_button usando o tipo de busca ID
+I, [2020-09-02T23:07:07.693695 #17537]  INFO -- : Aguardou a existência do elemento login_button usando o tipo de busca ID
+I, [2020-09-02T23:07:08.725437 #17537]  INFO -- : Clicou no botão login_button usando o tipo de busca ID
+I, [2020-09-02T23:07:08.726513 #17537]  INFO -- : Verificando se existe o elemento welcome_txt usando o tipo de busca XPATH
+I, [2020-09-02T23:07:30.256564 #17537]  INFO -- : Teste finalizado
+I, [2020-09-02T23:08:05.858821 #17743]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"login_username"} usando o tipo de busca ID com o valor qazando@gmail.com
+I, [2020-09-02T23:08:08.120762 #17743]  INFO -- : Preencheu o campo {"tipo_busca"=>"ID", "value"=>"login_password"} usando o tipo de busca ID com o valor 123456
+I, [2020-09-02T23:08:08.121730 #17743]  INFO -- : Verificando se existe o elemento login_button usando o tipo de busca ID
+I, [2020-09-02T23:08:08.506645 #17743]  INFO -- : Aguardou a existência do elemento login_button usando o tipo de busca ID
+I, [2020-09-02T23:08:09.663157 #17743]  INFO -- : Clicou no botão login_button usando o tipo de busca ID
+I, [2020-09-02T23:08:09.664088 #17743]  INFO -- : Verificando se existe o elemento welcome_txt usando o tipo de busca XPATH
+I, [2020-09-02T23:08:31.372594 #17743]  INFO -- : Teste finalizado
