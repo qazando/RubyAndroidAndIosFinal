@@ -1,4 +1,4 @@
-Cucumber cross testing core
+Cucumber com Ruby - QAZANDO
 ================================
 
 Este projeto foi criado com a finalidade de criar um framework que realiza testes para IOS e ANDROID utilizando somente a busca pelos elementos separadamente.
